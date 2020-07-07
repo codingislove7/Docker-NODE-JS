@@ -1,5 +1,5 @@
 # Specify a base image
-FROM alpine
+FROM node
 
 # Install some depenendencies
 RUN npm Install
